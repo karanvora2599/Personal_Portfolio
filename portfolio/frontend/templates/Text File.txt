@@ -1,0 +1,26 @@
+   <div class="clients-carousel">
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/client-1.png" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/client-2.png" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/client-3.png" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/client-4.png" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/Cogbee_logo.svg" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                    <!-- Client -->
+                    <a href="#" class="client">
+                        <img src="assets/img/client-3.png" class="img-responsive" alt="">
+                    </a><!-- /.client -->
+                </div><!-- /.clients-carousel -->
